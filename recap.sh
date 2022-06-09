@@ -1,0 +1,1 @@
+echo Money is good
